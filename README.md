@@ -28,6 +28,7 @@ This is the project from [The Odin Project](https://github.com/TheOdinProject) c
 - Controller callbacks with `before_action`
 - Strong parameters
 - Rails console
+- Deploying Rails applications
 
 ## Challenges
 
